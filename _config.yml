@@ -1,8 +1,9 @@
 # Site settings
 title: Example title
+github_username: birkin
 description: >
-  Practice site
-  
+  This is a practice site to demo GitHub Pages.
+
 url: "https://library.brown.edu"
 
 # Build settings
